@@ -24,6 +24,7 @@ public class BonsaiExtraMod {
     public void preInit(FMLPreInitializationEvent event) {
         // Какой-то код
 		BlockRegisterer.register();
+		CraftingRegisterer.register();
     }
 
     @EventHandler

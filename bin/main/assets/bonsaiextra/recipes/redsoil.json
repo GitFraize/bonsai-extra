@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OGO",
+        "GBG",
+        "OGO"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:grass"
+        },
+        "B": {
+            "item": "minecraft:bone_block"
+        },
+        "O": {
+            "item": "bonsaiextra:orangesoil"
+        }
+    },
+    "result": {
+        "item": "bonsaiextra:redsoil",
+        "count": 1
+    }
+}

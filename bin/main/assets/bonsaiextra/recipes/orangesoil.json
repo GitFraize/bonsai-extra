@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DGD",
+        "GBG",
+        "DGD"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:grass"
+        },
+        "B": {
+            "item": "minecraft:bone_block"
+        },
+        "D": {
+            "item": "minecraft:dirt",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "bonsaiextra:orangesoil",
+        "count": 1
+    }
+}

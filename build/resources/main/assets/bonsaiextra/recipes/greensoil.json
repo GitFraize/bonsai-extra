@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RFR",
+        "FBF",
+        "RFR"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:bone_block"
+        },
+        "F": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "R": {
+            "item": "bonsaiextra:redsoil"
+        }
+    },
+    "result": {
+        "item": "bonsaiextra:greensoil",
+        "count": 1
+    }
+}

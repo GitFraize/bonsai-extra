@@ -18,4 +18,8 @@ public class SoilBlock extends Block {
         this.setCreativeTab(BonsaiExtraMod.CTAB);
         this.setSoundType(SoundType.SAND);
 	}
+	
+	public boolean canSustainPlant(IBlockState state, IBlockAccess world, BlockPos pos, EnumFacing direction, IPlantable plantable) {
+	    return true;
+	  }
 }

@@ -15,16 +15,16 @@ public class BlockRegisterer {
     public static Block purpleSoil = new SoilBlock("purplesoil");
 
     public static void register() {
-        setRegister(redSoil);
         setRegister(orangeSoil);
+        setRegister(redSoil);
         setRegister(greenSoil);
         setRegister(purpleSoil);
     }
 
     @SideOnly(Side.CLIENT)
     public static void registerRender() {
-        setRender(redSoil);
         setRender(orangeSoil);
+        setRender(redSoil);
         setRender(greenSoil);
         setRender(purpleSoil);
     }
