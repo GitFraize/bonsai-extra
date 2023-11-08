@@ -1,0 +1,14 @@
+{
+  "bonsaitrees:root": {
+    "criteria": {
+      "bonsaipot_in_inventory": "2023-11-08 22:02:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2023-11-08 22:02:25 +0300"
+    },
+    "done": false
+  }
+}
